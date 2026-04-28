@@ -1,0 +1,19 @@
+{
+  "condominio": {
+    "nombre": "José J. Jasso 8",
+    "direccion": "C. José J. Jasso 8, Moctezuma 1a Sección, Venustiano Carranza, CDMX",
+    "total_departamentos": 8
+  },
+  "deptos": ["101", "102", "201", "202", "301", "302", "401", "402"],
+  "cuota_mensual": 1500,
+  "moratorios": {
+    "tasa_mensual": 0.0083,
+    "base_dias": 30,
+    "multa_quincenal": 150,
+    "corte_dia": 15
+  },
+  "saldos_iniciales": {
+    "caja": 11400,
+    "banco": 33626.71
+  }
+}

@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Condominio Jasso 8</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Jasso 8</h1>
+    <p class="muted" id="actualizado"></p>
+  </header>
+
+  <main>
+    <section class="totales" id="totales-section">
+      <h2>Resumen</h2>
+      <div class="cards" id="totales"></div>
+    </section>
+
+    <section>
+      <h2>Adeudos por departamento</h2>
+      <p class="muted">Toca un departamento para ver el desglose.</p>
+      <div id="deptos"></div>
+    </section>
+
+    <section>
+      <h2>Egresos recientes</h2>
+      <table id="egresos-tabla">
+        <thead><tr><th>Fecha</th><th>Concepto</th><th>Notas</th><th class="num">Monto</th></tr></thead>
+        <tbody></tbody>
+      </table>
+      <button id="ver-mas-egresos" class="ghost">Ver más</button>
+    </section>
+  </main>
+
+  <footer>
+    <p class="muted">Datos calculados al <span id="fecha-calculo"></span>. Intereses moratorios: 0.83% mensual + $150 si pagas después del día 15.</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

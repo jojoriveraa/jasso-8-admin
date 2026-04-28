@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.swp
+.idea/
+.vscode/
+
+# Datos privados (nunca subir)
+data/
+estados-cuenta/
+excel/
+*.xlsx
