@@ -5,7 +5,7 @@ Dashboard estático que se publica en GitHub Pages y se actualiza editando CSVs.
 
 ## Cómo verlo
 
-- **Online:** `https://<usuario>.github.io/jasso-8-admin/` (privado vía repo, público en Pages — solo deptos, sin nombres).
+- **Online:** <https://jojoriveraa.github.io/jasso-8-admin/>
 - **Local:**
   ```bash
   python3 -m http.server 8000 --directory docs
@@ -55,6 +55,5 @@ Las reglas detalladas de ingesta están en [`CLAUDE.md`](./CLAUDE.md).
 
 ## Privacidad
 
-- El repo es **privado**. Los nombres y referencias bancarias viven solo aquí.
-- GitHub Pages publica únicamente `docs/`. Esa carpeta nunca contiene nombres ni referencias bancarias — solo número de depto y montos.
-- `inquilinos.csv` y `estados-cuenta/` están fuera de `docs/` y nunca se exponen.
+- El repo es **público**, pero los archivos con datos personales nunca se versionan: `data/`, `estados-cuenta/` y `excel/` están en `.gitignore` y viven solo en la máquina del admin.
+- Lo que sí se publica (en `docs/`) son los CSVs de cuotas y egresos — solo número de depto y montos, sin nombres ni referencias bancarias.
