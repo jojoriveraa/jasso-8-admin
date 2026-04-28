@@ -147,10 +147,10 @@ fecha,concepto,notas,monto
 2024-12-27,Basura de Diciembre,Semana 51,300
 2025-01-01,Pago TotalPlay,Semana 1,889
 2025-01-01,Mantenimiento elevador,Semana 1,2300
-2025-01-03,Basura de Enero,Semana 1,200
-2025-01-03,Pago Reyna Enero,Semana 1,1000
-2025-01-10,Basura de Enero,Semana 2,200
-2025-01-10,Pago Reyna Enero,Semana 2,1000
+2025-01-04,Basura de Enero,Semana 1,200
+2025-01-04,Pago Reyna Enero,Semana 1,1000
+2025-01-11,Basura de Enero,Semana 2,200
+2025-01-11,Pago Reyna Enero,Semana 2,1000
 2025-01-18,Basura de Enero,Semana 3,200
 2025-01-18,Pago Reyna Enero,Semana 3,1000
 2025-01-25,Basura de Enero,Semana 4,200
@@ -183,145 +183,143 @@ fecha,concepto,notas,monto
 2025-03-23,Retiro de cascajo (2),Semana 26,1100
 2025-03-29,Basura de Marzo,Semana 13,200
 2025-03-29,Pago Reyna Marzo,Semana 13,1000
-2025-04-01,Basura de Abril,Semana 14,200
+2025-04-05,Basura de Abril,Semana 14,200
 2025-04-01,Pago TotalPlay,Semana 14,889
-2025-04-01,Pago Reyna Abril,Semana 14,1000
+2025-04-05,Pago Reyna Abril,Semana 14,1000
 2025-04-01,Mantenimiento elevador,Semana 14,2300
-2025-04-08,Basura de Abril,Semana 15,200
-2025-04-08,Pago Reyna Abril,Semana 15,1000
-2025-04-15,Basura de Abril,Semana 16,200
-2025-04-15,Pago Reyna Abril,Semana 16,1000
-2025-04-22,Basura de Abril,Semana 17,200
-2025-04-22,Pago Reyna Abril,Semana 17,1000
-2025-04-29,Basura de Abril,Semana 18,200
-2025-04-29,Pago Reyna Abril,Semana 18,1000
+2025-04-12,Basura de Abril,Semana 15,200
+2025-04-12,Pago Reyna Abril,Semana 15,1000
+2025-04-19,Basura de Abril,Semana 16,200
+2025-04-19,Pago Reyna Abril,Semana 16,1000
+2025-04-26,Basura de Abril,Semana 17,200
+2025-04-26,Pago Reyna Abril,Semana 17,1000
+2025-05-03,Basura de Abril,Semana 18,200
+2025-05-03,Pago Reyna Abril,Semana 18,1000
 2025-05-01,Pago TotalPlay,Semana 18,889
 2025-05-01,Mantenimiento elevador,Semana 18,2300
-2025-05-08,Basura de Mayo,Semana 19,200
-2025-05-08,Pago Reyna Mayo,Semana 19,1000
-2025-05-15,Basura de Mayo,Semana 20,200
-2025-05-15,Pago Reyna Mayo,Semana 20,1000
-2025-05-22,Basura de Mayo,Semana 21,200
-2025-05-22,Pago Reyna Mayo,Semana 21,1000
-2025-05-29,Basura de Mayo,Semana 22,200
-2025-05-29,Pago Reyna Mayo,Semana 22,1000
-2025-06-05,Basura de Junio,Semana 23,200
-2025-06-05,Pago Reyna Junio,Semana 23,1000
-2025-06-12,Basura de Junio,Semana 24,200
-2025-06-12,Pago Reyna Junio,Semana 24,1000
+2025-05-10,Basura de Mayo,Semana 19,200
+2025-05-10,Pago Reyna Mayo,Semana 19,1000
+2025-05-17,Basura de Mayo,Semana 20,200
+2025-05-17,Pago Reyna Mayo,Semana 20,1000
+2025-05-24,Basura de Mayo,Semana 21,200
+2025-05-24,Pago Reyna Mayo,Semana 21,1000
+2025-05-31,Basura de Mayo,Semana 22,200
+2025-05-31,Pago Reyna Mayo,Semana 22,1000
+2025-06-07,Basura de Junio,Semana 23,200
+2025-06-07,Pago Reyna Junio,Semana 23,1000
+2025-06-14,Basura de Junio,Semana 24,200
+2025-06-14,Pago Reyna Junio,Semana 24,1000
 2025-06-14,Mantenimiento bombas,Semana 24,5120
-2025-06-19,Basura de Junio,Semana 25,200
-2025-06-19,Pago Reyna Junio,Semana 25,1000
-2025-06-26,Basura de Junio,Semana 26,200
-2025-06-26,Pago Reyna Junio,Semana 26,1000
-2025-07-03,Basura de Julio,Semana 27,200
-2025-07-03,Pago Reyna Julio,Semana 27,1000
-2025-07-10,Basura de Julio,Semana 28,200
-2025-07-10,Pago Reyna Julio,Semana 28,1000
-2025-07-17,Basura de Julio,Semana 29,200
-2025-07-17,Pago Reyna Julio,Semana 29,1000
-2025-07-24,Basura de Julio,Semana 30,200
-2025-07-24,Pago Reyna Julio,Semana 30,1000
-2025-07-31,Basura de Julio,Semana 31,200
-2025-07-31,Pago Reyna Julio,Semana 31,1000
+2025-06-21,Basura de Junio,Semana 25,200
+2025-06-21,Pago Reyna Junio,Semana 25,1000
+2025-06-28,Basura de Junio,Semana 26,200
+2025-06-28,Pago Reyna Junio,Semana 26,1000
+2025-07-05,Basura de Julio,Semana 27,200
+2025-07-05,Pago Reyna Julio,Semana 27,1000
+2025-07-12,Basura de Julio,Semana 28,200
+2025-07-12,Pago Reyna Julio,Semana 28,1000
+2025-07-19,Basura de Julio,Semana 29,200
+2025-07-19,Pago Reyna Julio,Semana 29,1000
+2025-07-26,Basura de Julio,Semana 30,200
+2025-07-26,Pago Reyna Julio,Semana 30,1000
+2025-08-02,Basura de Julio,Semana 31,200
+2025-08-02,Pago Reyna Julio,Semana 31,1000
 2025-08-01,Pago TotalPlay,Semana 31,889
 2025-08-01,Mantenimiento elevador,Semana 31,2300
-2025-08-07,Basura de Agosto,Semana 32,200
-2025-08-07,Pago Reyna Agosto,Semana 32,1000
-2025-08-14,Basura de Agosto,Semana 33,200
-2025-08-14,Pago Reyna Agosto,Semana 33,1000
-2025-08-21,Basura de Agosto,Semana 34,200
-2025-08-21,Pago Reyna Agosto,Semana 34,1000
-2025-08-28,Basura de Agosto,Semana 35,200
-2025-08-28,Pago Reyna Agosto,Semana 35,1000
+2025-08-09,Basura de Agosto,Semana 32,200
+2025-08-09,Pago Reyna Agosto,Semana 32,1000
+2025-08-16,Basura de Agosto,Semana 33,200
+2025-08-16,Pago Reyna Agosto,Semana 33,1000
+2025-08-23,Basura de Agosto,Semana 34,200
+2025-08-23,Pago Reyna Agosto,Semana 34,1000
+2025-08-30,Basura de Agosto,Semana 35,200
+2025-08-30,Pago Reyna Agosto,Semana 35,1000
 2025-09-01,Pago TotalPlay,Semana 36,889
 2025-09-01,Mantenimiento elevador,Semana 36,2300
-2025-09-04,Basura de Septiembre,Semana 36,200
-2025-09-04,Pago Reyna Septiembre,Semana 36,1000
+2025-09-06,Basura de Septiembre,Semana 36,200
+2025-09-06,Pago Reyna Septiembre,Semana 36,1000
 2025-09-05,Retiro de puerta (mano de obra),Semana 36,1800
-2025-09-11,Basura de Septiembre,Semana 37,200
-2025-09-11,Pago Reyna Septiembre,Semana 37,1000
-2025-09-18,Basura de Septiembre,Semana 38,200
-2025-09-18,Pago Reyna Septiembre,Semana 38,1000
+2025-09-13,Basura de Septiembre,Semana 37,200
+2025-09-13,Pago Reyna Septiembre,Semana 37,1000
+2025-09-20,Basura de Septiembre,Semana 38,200
+2025-09-20,Pago Reyna Septiembre,Semana 38,1000
 2025-09-18,Plomería (Abraham),Semana 38,1700
-2025-09-25,Basura de Septiembre,Semana 39,200
-2025-09-25,Pago Reyna Septiembre,Semana 39,1000
+2025-09-27,Basura de Septiembre,Semana 39,200
+2025-09-27,Pago Reyna Septiembre,Semana 39,1000
 2025-10-01,Pago TotalPlay,Semana 40,889
 2025-10-01,Mantenimiento elevador,Semana 40,2300
-2025-10-02,Basura de Octubre,Semana 40,200
-2025-10-02,Pago Reyna Octubre,Semana 40,1000
+2025-10-04,Basura de Octubre,Semana 40,200
+2025-10-04,Pago Reyna Octubre,Semana 40,1000
 2025-10-03,Pago bota aguas,,12638
-2025-10-09,Basura de Octubre,Semana 41,200
-2025-10-09,Pago Reyna Octubre,Semana 41,1000
-2025-10-16,Basura de Octubre,Semana 42,200
-2025-10-16,Pago Reyna Octubre,Semana 42,1000
-2025-10-23,Basura de Octubre,Semana 43,200
-2025-10-23,Pago Reyna Octubre,Semana 43,1000
-2025-10-30,Basura de Octubre,Semana 44,200
-2025-10-30,Pago Reyna Octubre,Semana 44,1000
+2025-10-11,Basura de Octubre,Semana 41,200
+2025-10-11,Pago Reyna Octubre,Semana 41,1000
+2025-10-18,Basura de Octubre,Semana 42,200
+2025-10-18,Pago Reyna Octubre,Semana 42,1000
+2025-10-25,Basura de Octubre,Semana 43,200
+2025-10-25,Pago Reyna Octubre,Semana 43,1000
+2025-11-01,Basura de Octubre,Semana 44,200
+2025-11-01,Pago Reyna Octubre,Semana 44,1000
 2025-11-01,Pago TotalPlay,Semana 44,889
 2025-11-01,Mantenimiento elevador,Semana 44,2300
-2025-11-06,Basura de Noviembre,Semana 45,200
-2025-11-06,Pago Reyna Noviembre,Semana 45,1000
-2025-11-13,Basura de Noviembre,Semana 46,200
-2025-11-13,Pago Reyna Noviembre,Semana 46,1000
+2025-11-08,Basura de Noviembre,Semana 45,200
+2025-11-08,Pago Reyna Noviembre,Semana 45,1000
+2025-11-15,Basura de Noviembre,Semana 46,200
+2025-11-15,Pago Reyna Noviembre,Semana 46,1000
 2025-11-18,Mantenimiento bombas,Semana 47,4780
-2025-11-20,Basura de Noviembre,Semana 47,200
-2025-11-20,Pago Reyna Noviembre,Semana 47,1000
-2025-11-27,Basura de Noviembre,Semana 48,200
-2025-11-27,Pago Reyna Noviembre,Semana 48,1000
+2025-11-22,Basura de Noviembre,Semana 47,200
+2025-11-22,Pago Reyna Noviembre,Semana 47,1000
+2025-11-29,Basura de Noviembre,Semana 48,200
+2025-11-29,Pago Reyna Noviembre,Semana 48,1000
 2025-12-01,Pago TotalPlay,Semana 49,889
 2025-12-01,Mantenimiento elevador,Semana 49,2300
-2025-12-04,Basura de Diciembre,Semana 49,200
-2025-12-04,Pago Reyna Diciembre,Semana 49,1000
-2025-12-11,Basura de Diciembre,Semana 50,200
-2025-12-11,Pago Reyna Diciembre,Semana 50,1000
+2025-12-06,Basura de Diciembre,Semana 49,200
+2025-12-06,Pago Reyna Diciembre,Semana 49,1000
+2025-12-13,Basura de Diciembre,Semana 50,200
+2025-12-13,Pago Reyna Diciembre,Semana 50,1000
 2025-12-15,Reparacion tueria,,700
-2025-12-18,Basura de Diciembre,Semana 51,200
-2025-12-18,Pago Reyna Diciembre,Semana 51,1000
-2025-12-25,Basura de Diciembre,Semana 52,200
-2025-12-25,Pago Reyna Diciembre,Semana 52,1000
+2025-12-20,Basura de Diciembre,Semana 51,200
+2025-12-20,Pago Reyna Diciembre,Semana 51,1000
+2025-12-27,Basura de Diciembre,Semana 52,200
+2025-12-27,Pago Reyna Diciembre,Semana 52,1000
 2026-01-01,Pago TotalPlay,Enero,978
-2026-01-01,Pago Reyna Enero,Enero,1000
+2026-01-03,Pago Reyna Enero,Enero,1000
 2026-01-01,Mantenimiento elevador,Enero,2500
-2026-01-01,Basura de Enero,Enero,300
-2026-01-08,Basura de Enero,Enero,300
-2026-01-08,Pago Reyna Enero,Enero,1000
-2026-01-15,Pago Reyna Enero,Enero,1000
-2026-01-15,Basura de Enero,Enero,300
-2026-01-22,Basura de Enero,Enero,300
-2026-01-22,Pago Reyna Enero,Enero,1000
-2026-01-29,Pago Reyna Enero,Enero,1000
-2026-01-29,Basura de Enero,Enero,300
+2026-01-03,Basura de Enero,Enero,300
+2026-01-10,Basura de Enero,Enero,300
+2026-01-10,Pago Reyna Enero,Enero,1000
+2026-01-17,Pago Reyna Enero,Enero,1000
+2026-01-17,Basura de Enero,Enero,300
+2026-01-24,Basura de Enero,Enero,300
+2026-01-24,Pago Reyna Enero,Enero,1000
+2026-01-31,Pago Reyna Enero,Enero,1000
+2026-01-31,Basura de Enero,Enero,300
 2026-02-01,Pago TotalPlay,Febrero,978
 2026-02-01,Mantenimiento elevador,Febrero,2550
-2026-02-05,Basura de Febrero,Febrero,300
-2026-02-05,Pago Reyna Febrero,Febrero,1000
-2026-02-12,Pago Reyna Febrero,Febrero,1000
-2026-02-12,Basura de Febrero,Febrero,300
-2026-02-19,Basura de Febrero,Febrero,300
-2026-02-19,Pago Reyna Febrero,Febrero,1000
-2026-02-26,Pago Reyna Febrero,Febrero,1000
-2026-02-26,Basura de Febrero,Febrero,300
+2026-02-07,Basura de Febrero,Febrero,300
+2026-02-07,Pago Reyna Febrero,Febrero,1000
+2026-02-14,Pago Reyna Febrero,Febrero,1000
+2026-02-14,Basura de Febrero,Febrero,300
+2026-02-21,Basura de Febrero,Febrero,300
+2026-02-21,Pago Reyna Febrero,Febrero,1000
+2026-02-28,Pago Reyna Febrero,Febrero,1000
+2026-02-28,Basura de Febrero,Febrero,300
 2026-03-01,Pago TotalPlay,Marzo,978
 2026-03-01,Mantenimiento elevador,Marzo,2550
-2026-03-05,Basura de Marzo,Marzo,300
-1900-01-03,Pago Reyna Marzo,Marzo,1000
-2026-03-12,Pago Reyna Marzo,Marzo,1000
-2026-03-12,Basura de Marzo,Marzo,300
-2026-03-19,Basura de Marzo,Marzo,300
-2026-03-19,Pago Reyna Marzo,Marzo,1000
-2026-03-19,Basura de Marzo,Marzo,300
-2026-03-19,Pago Reyna Marzo,Marzo,1000
-2026-03-26,Pago Reyna Marzo,Marzo,1000
-2026-03-26,Basura de Marzo,Marzo,300
+2026-03-07,Basura de Marzo,Marzo,300
+2026-03-07,Pago Reyna Marzo,Marzo,1000
+2026-03-14,Pago Reyna Marzo,Marzo,1000
+2026-03-14,Basura de Marzo,Marzo,300
+2026-03-21,Basura de Marzo,Marzo,300
+2026-03-21,Pago Reyna Marzo,Marzo,1000
+2026-03-28,Pago Reyna Marzo,Marzo,1000
+2026-03-28,Basura de Marzo,Marzo,300
 2026-04-01,Pago TotalPlay,Abril,978
 2026-02-01,Mantenimiento elevador,Abril,2550
-2026-04-05,Basura de Abril,Abril,300
-2026-04-05,Pago Reyna Abril,Abril,1000
-2026-04-12,Pago Reyna Abril,Abril,1000
-2026-04-05,Basura de Abril,Abril,300
-2026-04-05,Basura de Abril,Abril,300
-2026-04-19,Pago Reyna Abril,Abril,1000
-2026-04-26,Pago Reyna Abril,Abril,1000
-2026-04-05,Basura de Abril,Abril,300
+2026-04-04,Basura de Abril,Abril,300
+2026-04-04,Pago Reyna Abril,Abril,1000
+2026-04-11,Pago Reyna Abril,Abril,1000
+2026-04-11,Basura de Abril,Abril,300
+2026-04-18,Basura de Abril,Abril,300
+2026-04-18,Pago Reyna Abril,Abril,1000
+2026-04-25,Pago Reyna Abril,Abril,1000
+2026-04-25,Basura de Abril,Abril,300
