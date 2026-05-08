@@ -314,7 +314,7 @@ fecha,concepto,notas,monto
 2026-03-28,Pago Reyna Marzo,Marzo,1000
 2026-03-28,Basura de Marzo,Marzo,300
 2026-04-01,Pago TotalPlay,Abril,978
-2026-02-01,Mantenimiento elevador,Abril,2550
+2026-04-01,Mantenimiento elevador,Abril,2550
 2026-04-04,Basura de Abril,Abril,300
 2026-04-04,Pago Reyna Abril,Abril,1000
 2026-04-11,Pago Reyna Abril,Abril,1000
@@ -323,3 +323,6 @@ fecha,concepto,notas,monto
 2026-04-18,Pago Reyna Abril,Abril,1000
 2026-04-25,Pago Reyna Abril,Abril,1000
 2026-04-25,Basura de Abril,Abril,300
+2026-05-01,Mantenimiento elevador,Mayo,2550
+2026-05-02,Basura de Mayo,Mayo,300
+2026-05-02,Pago Reyna Mayo,Mayo,1000
