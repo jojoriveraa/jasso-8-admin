@@ -210,7 +210,7 @@ fecha,concepto,depto,monto_total,pago,adeudo,interes_mensual,saldo_pendiente
 2025-11-01,Cuota de mantenimiento de 2025 Noviembre,301,1500,1500,0,0,0
 2025-11-01,Cuota de mantenimiento de 2025 Noviembre,302,1500,0,1500,223.45499999999998,1723.455
 2025-11-01,Cuota de mantenimiento de 2025 Noviembre,401,1500,0,1500,223.45499999999998,1723.455
-2025-11-01,Cuota de mantenimiento de 2025 Noviembre,402,1500,500,1000,198.97,1198.97
+2025-11-01,Cuota de mantenimiento de 2025 Noviembre,402,1500,1500,0,0,0
 2025-12-01,Cuota de mantenimiento de 2025 Diciembre,101,1500,1500,0,0,0
 2025-12-01,Cuota de mantenimiento de 2025 Diciembre,102,1500,1500,0,0,0
 2025-12-01,Cuota de mantenimiento de 2025 Diciembre,201,1500,1500,0,0,0
@@ -218,7 +218,7 @@ fecha,concepto,depto,monto_total,pago,adeudo,interes_mensual,saldo_pendiente
 2025-12-01,Cuota de mantenimiento de 2025 Diciembre,301,1500,1500,0,0,0
 2025-12-01,Cuota de mantenimiento de 2025 Diciembre,302,1500,0,1500,211.005,1711.005
 2025-12-01,Cuota de mantenimiento de 2025 Diciembre,401,1500,0,1500,211.005,1711.005
-2025-12-01,Cuota de mantenimiento de 2025 Diciembre,402,1500,0,1500,211.005,1711.005
+2025-12-01,Cuota de mantenimiento de 2025 Diciembre,402,1500,1500,0,0,0
 2026-01-01,Cuota de mantenimiento de 2026 Enero,101,1500,1500,0,0,0
 2026-01-01,Cuota de mantenimiento de 2026 Enero,102,1500,1500,0,0,0
 2026-01-01,Cuota de mantenimiento de 2026 Enero,201,1500,1500,0,0,0
@@ -226,7 +226,7 @@ fecha,concepto,depto,monto_total,pago,adeudo,interes_mensual,saldo_pendiente
 2026-01-01,Cuota de mantenimiento de 2026 Enero,301,1500,1500,0,0,0
 2026-01-01,Cuota de mantenimiento de 2026 Enero,302,1500,0,1500,198.14,1698.1399999999999
 2026-01-01,Cuota de mantenimiento de 2026 Enero,401,1500,0,1500,198.14,1698.1399999999999
-2026-01-01,Cuota de mantenimiento de 2026 Enero,402,1500,0,1500,198.14,1698.1399999999999
+2026-01-01,Cuota de mantenimiento de 2026 Enero,402,1500,1500,0,0,0
 2026-02-01,Cuota de mantenimiento de 2026 Febrero,101,1500,1500,0,0,0
 2026-02-01,Cuota de mantenimiento de 2026 Febrero,102,1500,1500,0,0,0
 2026-02-01,Cuota de mantenimiento de 2026 Febrero,201,1500,1500,0,0,0
@@ -234,7 +234,7 @@ fecha,concepto,depto,monto_total,pago,adeudo,interes_mensual,saldo_pendiente
 2026-02-01,Cuota de mantenimiento de 2026 Febrero,301,1500,1500,0,0,0
 2026-02-01,Cuota de mantenimiento de 2026 Febrero,302,1500,0,1500,185.275,1685.275
 2026-02-01,Cuota de mantenimiento de 2026 Febrero,401,1500,0,1500,185.275,1685.275
-2026-02-01,Cuota de mantenimiento de 2026 Febrero,402,1500,0,1500,185.275,1685.275
+2026-02-01,Cuota de mantenimiento de 2026 Febrero,402,1500,1500,0,0,0
 2026-03-01,Cuota de mantenimiento de 2026 Marzo,101,1500,1500,0,0,0
 2026-03-01,Cuota de mantenimiento de 2026 Marzo,102,1500,1500,0,0,0
 2026-03-01,Cuota de mantenimiento de 2026 Marzo,201,1500,1500,0,0,0
