@@ -140,8 +140,12 @@ function renderCuotas(cuotas) {
   </table>`;
 }
 
-function renderEgresos(egresos) {
-  const sorted = egresos.slice().sort((a, b) => parseFecha(b.fecha) - parseFecha(a.fecha));
+function renderEgresos(egresos, hoy) {
+  const limite = new Date(hoy.getFullYear() - 1, hoy.getMonth(), hoy.getDate());
+  const sorted = egresos
+    .slice()
+    .filter((r) => parseFecha(r.fecha) >= limite)
+    .sort((a, b) => parseFecha(b.fecha) - parseFecha(a.fecha));
   const tbody = document.querySelector("#egresos-tabla tbody");
   let mostrados = 10;
   const dibuja = () => {
@@ -176,7 +180,7 @@ async function main() {
     const porDepto = agruparPorDepto(ingresos, hoy, cfg.moratorios);
     renderTotales(ingresos, egresos, porDepto, cfg);
     renderDeptos(porDepto, cfg);
-    renderEgresos(egresos);
+    renderEgresos(egresos, hoy);
   } catch (e) {
     document.querySelector("main").innerHTML =
       `<p style="color:var(--bad)">Error al cargar datos: ${e.message}</p>`;
