@@ -21,10 +21,13 @@ async function fetchJson(path) {
 // Calcula interés moratorio + multa según fórmula del Excel original.
 function calcularInteres(adeudo, fechaCuota, hoy, cfg) {
   if (!adeudo || adeudo <= 0) return 0;
-  const diasMora = Math.max(0, (hoy - fechaCuota) / (1000 * 60 * 60 * 24));
+  // Cada cuota vence el día `corte_dia` de su mes; antes de esa fecha no
+  // genera mora ni multa.
+  const fechaVence = new Date(fechaCuota.getFullYear(), fechaCuota.getMonth(), cfg.corte_dia);
+  if (hoy <= fechaVence) return 0;
+  const diasMora = (hoy - fechaVence) / (1000 * 60 * 60 * 24);
   const interes = adeudo * cfg.tasa_mensual * (diasMora / cfg.base_dias);
-  const multa = hoy.getDate() > cfg.corte_dia ? cfg.multa_quincenal : 0;
-  return interes + multa;
+  return interes + cfg.multa_quincenal;
 }
 
 function parseFecha(s) {
