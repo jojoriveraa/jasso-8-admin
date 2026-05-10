@@ -140,6 +140,21 @@ function renderCuotas(cuotas) {
   </table>`;
 }
 
+function renderProyectos(proyectos) {
+  const tbody = document.querySelector("#proyectos-tabla tbody");
+  const sorted = proyectos
+    .slice()
+    .sort((a, b) => (Number(a.prioridad) || 0) - (Number(b.prioridad) || 0));
+  tbody.innerHTML = sorted
+    .map(
+      (p) =>
+        `<tr><td>${p.prioridad ?? ""}</td><td>${p.proyecto || ""}</td><td class="num">${fmtMoney(Number(p.presupuesto_estimado) || 0)}</td></tr>`
+    )
+    .join("");
+  const total = sorted.reduce((s, p) => s + (Number(p.presupuesto_estimado) || 0), 0);
+  document.getElementById("proyectos-total").textContent = fmtMoney(total);
+}
+
 function renderEgresos(egresos, hoy) {
   const limite = new Date(hoy.getFullYear() - 1, hoy.getMonth(), hoy.getDate());
   const sorted = egresos
@@ -167,10 +182,11 @@ function renderEgresos(egresos, hoy) {
 
 async function main() {
   try {
-    const [cfg, ingresos, egresos] = await Promise.all([
+    const [cfg, ingresos, egresos, proyectos] = await Promise.all([
       fetchJson("config.json"),
       fetchCsv("registro_ingresos.csv"),
       fetchCsv("registro_egresos.csv"),
+      fetchCsv("proyectos.csv"),
     ]);
 
     const hoy = new Date();
@@ -181,6 +197,7 @@ async function main() {
     renderTotales(ingresos, egresos, porDepto, cfg);
     renderDeptos(porDepto, cfg);
     renderEgresos(egresos, hoy);
+    renderProyectos(proyectos);
   } catch (e) {
     document.querySelector("main").innerHTML =
       `<p style="color:var(--bad)">Error al cargar datos: ${e.message}</p>`;
