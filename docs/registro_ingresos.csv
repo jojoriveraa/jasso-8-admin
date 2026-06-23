@@ -262,8 +262,16 @@ fecha,concepto,depto,monto_total,pago,adeudo,interes_mensual,saldo_pendiente
 2026-05-01,Cuota extraordinaria para gestión del acceso al elevador de 2026 Mayo,101,3858,3858,0,0,0
 2026-05-01,Cuota extraordinaria para gestión del acceso al elevador de 2026 Mayo,102,3858,3858,0,0,0
 2026-05-01,Cuota extraordinaria para gestión del acceso al elevador de 2026 Mayo,201,3858,3858,0,0,0
-2026-05-01,Cuota extraordinaria para gestión del acceso al elevador de 2026 Mayo,202,3858,3000,858,0,858
+2026-05-01,Cuota extraordinaria para gestión del acceso al elevador de 2026 Mayo,202,3858,3858,0,0,0
 2026-05-01,Cuota extraordinaria para gestión del acceso al elevador de 2026 Mayo,301,3858,3858,0,0,0
 2026-05-01,Cuota extraordinaria para gestión del acceso al elevador de 2026 Mayo,302,3858,0,3858,0,3858
 2026-05-01,Cuota extraordinaria para gestión del acceso al elevador de 2026 Mayo,401,3858,0,3858,0,3858
 2026-05-01,Cuota extraordinaria para gestión del acceso al elevador de 2026 Mayo,402,3858,0,3858,0,3858
+2026-06-01,Cuota de mantenimiento de 2026 Junio,101,1500,1500,0,0,0
+2026-06-01,Cuota de mantenimiento de 2026 Junio,102,1500,1500,0,0,0
+2026-06-01,Cuota de mantenimiento de 2026 Junio,201,1500,1500,0,0,0
+2026-06-01,Cuota de mantenimiento de 2026 Junio,202,1500,1500,0,0,0
+2026-06-01,Cuota de mantenimiento de 2026 Junio,301,1500,1500,0,0,0
+2026-06-01,Cuota de mantenimiento de 2026 Junio,302,1500,0,1500,0,1500
+2026-06-01,Cuota de mantenimiento de 2026 Junio,401,1500,0,1500,0,1500
+2026-06-01,Cuota de mantenimiento de 2026 Junio,402,1500,0,1500,0,1500
