@@ -1,6 +1,6 @@
-prioridad,proyecto,presupuesto_estimado
-1,Gestión del acceso al elevador,31000
-2,Mantenimiento de bombas,1000
-3,Mantenimiento de iluminación del estacionamiento,14000
-4,Mantenimiento del sistema de vigilancia,5000
-5,Impermeabilización del techo,80000
+prioridad,proyecto,presupuesto_estimado,estado
+1,Gestión del acceso al elevador,31000,terminado
+2,Mantenimiento de bombas,1000,terminado
+3,Mantenimiento de iluminación del estacionamiento,14000,pendiente
+4,Mantenimiento del sistema de vigilancia,5000,pendiente
+5,Impermeabilización del techo,80000,pendiente

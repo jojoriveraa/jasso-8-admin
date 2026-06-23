@@ -145,16 +145,24 @@ function renderCuotas(cuotas) {
 
 function renderProyectos(proyectos) {
   const tbody = document.querySelector("#proyectos-tabla tbody");
-  const sorted = proyectos
-    .slice()
-    .sort((a, b) => (Number(a.prioridad) || 0) - (Number(b.prioridad) || 0));
+  const esTerminado = (p) => String(p.estado || "").toLowerCase() === "terminado";
+  // Pendientes primero (por prioridad), terminados al final.
+  const sorted = proyectos.slice().sort((a, b) => {
+    const t = (esTerminado(a) ? 1 : 0) - (esTerminado(b) ? 1 : 0);
+    return t !== 0 ? t : (Number(a.prioridad) || 0) - (Number(b.prioridad) || 0);
+  });
   tbody.innerHTML = sorted
-    .map(
-      (p) =>
-        `<tr><td>${p.prioridad ?? ""}</td><td>${p.proyecto || ""}</td><td class="num">${fmtMoney(Number(p.presupuesto_estimado) || 0)}</td></tr>`
-    )
+    .map((p) => {
+      const terminado = esTerminado(p);
+      const cls = terminado ? "row-pagada" : "";
+      const badge = terminado ? ` <span class="badge-pagada">Terminado</span>` : "";
+      return `<tr class="${cls}"><td>${p.prioridad ?? ""}</td><td>${p.proyecto || ""}${badge}</td><td class="num">${fmtMoney(Number(p.presupuesto_estimado) || 0)}</td></tr>`;
+    })
     .join("");
-  const total = sorted.reduce((s, p) => s + (Number(p.presupuesto_estimado) || 0), 0);
+  // El total estimado solo cuenta proyectos pendientes.
+  const total = sorted
+    .filter((p) => !esTerminado(p))
+    .reduce((s, p) => s + (Number(p.presupuesto_estimado) || 0), 0);
   document.getElementById("proyectos-total").textContent = fmtMoney(total);
 }
 
