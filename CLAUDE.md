@@ -98,6 +98,8 @@ jasso-8-admin/
 
 - **Para extraer transacciones de un PDF Banamex** usar `pdfplumber` (ya instalado) con detección por columnas de `RETIROS`/`DEPOSITOS`/`SALDO` y manejo de saltos de página (transacciones que cruzan páginas tienden a perder atribución de monto/nombre — verificar siempre).
 
+- **Los CSVs de `docs/` usan terminaciones de línea LF** (normalizado en jul 2026; antes eran CRLF). No mezclar: PapaParse detecta el salto de línea al inicio del archivo y las filas con terminación distinta se colapsan en un solo campo (síntoma: `$NaN` y filas faltantes en el dashboard). Si se reescribe con `csv.writer`/`csv.DictWriter` de Python, pasar `lineterminator="\n"`.
+
 - **Para probar el dashboard local:**
   ```bash
   python3 -m http.server 8000 --directory docs
