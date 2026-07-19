@@ -275,11 +275,11 @@ fecha,concepto,depto,monto_total,pago,adeudo,interes_mensual,saldo_pendiente
 2026-06-01,Cuota de mantenimiento de 2026 Junio,302,1500,0,1500,164.11,1664.11
 2026-06-01,Cuota de mantenimiento de 2026 Junio,401,1500,0,1500,164.11,1664.11
 2026-06-01,Cuota de mantenimiento de 2026 Junio,402,1500,0,1500,164.11,1664.11
-2026-07-01,Cuota de mantenimiento de 2026 Julio,101,1500,0,1500,151.66,1651.66
-2026-07-01,Cuota de mantenimiento de 2026 Julio,102,1500,0,1500,151.66,1651.66
-2026-07-01,Cuota de mantenimiento de 2026 Julio,201,1500,0,1500,151.66,1651.66
-2026-07-01,Cuota de mantenimiento de 2026 Julio,202,1500,0,1500,151.66,1651.66
-2026-07-01,Cuota de mantenimiento de 2026 Julio,301,1500,0,1500,151.66,1651.66
+2026-07-01,Cuota de mantenimiento de 2026 Julio,101,1500,1500,0,0,0
+2026-07-01,Cuota de mantenimiento de 2026 Julio,102,1500,1500,0,0,0
+2026-07-01,Cuota de mantenimiento de 2026 Julio,201,1500,1500,0,0,0
+2026-07-01,Cuota de mantenimiento de 2026 Julio,202,1500,1500,0,0,0
+2026-07-01,Cuota de mantenimiento de 2026 Julio,301,1500,1500,0,0,0
 2026-07-01,Cuota de mantenimiento de 2026 Julio,302,1500,0,1500,151.66,1651.66
 2026-07-01,Cuota de mantenimiento de 2026 Julio,401,1500,0,1500,151.66,1651.66
 2026-07-01,Cuota de mantenimiento de 2026 Julio,402,1500,0,1500,151.66,1651.66
