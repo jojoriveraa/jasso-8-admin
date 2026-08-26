@@ -184,20 +184,20 @@ fecha,concepto,notas,monto
 2025-03-23,Retiro de cascajo (2),Semana 26,1100
 2025-03-29,Basura de Marzo,Semana 13,200
 2025-03-29,Pago Reyna Marzo,Semana 13,1000
-2025-04-05,Basura de Abril,Semana 14,200
 2025-04-01,Pago TotalPlay,Semana 14,889
-2025-04-05,Pago Reyna Abril,Semana 14,1000
 2025-04-01,Mantenimiento elevador,Semana 14,2300
+2025-04-05,Basura de Abril,Semana 14,200
+2025-04-05,Pago Reyna Abril,Semana 14,1000
 2025-04-12,Basura de Abril,Semana 15,200
 2025-04-12,Pago Reyna Abril,Semana 15,1000
 2025-04-19,Basura de Abril,Semana 16,200
 2025-04-19,Pago Reyna Abril,Semana 16,1000
 2025-04-26,Basura de Abril,Semana 17,200
 2025-04-26,Pago Reyna Abril,Semana 17,1000
-2025-05-03,Basura de Abril,Semana 18,200
-2025-05-03,Pago Reyna Abril,Semana 18,1000
 2025-05-01,Pago TotalPlay,Semana 18,889
 2025-05-01,Mantenimiento elevador,Semana 18,2300
+2025-05-03,Basura de Abril,Semana 18,200
+2025-05-03,Pago Reyna Abril,Semana 18,1000
 2025-05-10,Basura de Mayo,Semana 19,200
 2025-05-10,Pago Reyna Mayo,Semana 19,1000
 2025-05-17,Basura de Mayo,Semana 20,200
@@ -223,10 +223,10 @@ fecha,concepto,notas,monto
 2025-07-19,Pago Reyna Julio,Semana 29,1000
 2025-07-26,Basura de Julio,Semana 30,200
 2025-07-26,Pago Reyna Julio,Semana 30,1000
-2025-08-02,Basura de Julio,Semana 31,200
-2025-08-02,Pago Reyna Julio,Semana 31,1000
 2025-08-01,Pago TotalPlay,Semana 31,889
 2025-08-01,Mantenimiento elevador,Semana 31,2300
+2025-08-02,Basura de Julio,Semana 31,200
+2025-08-02,Pago Reyna Julio,Semana 31,1000
 2025-08-09,Basura de Agosto,Semana 32,200
 2025-08-09,Pago Reyna Agosto,Semana 32,1000
 2025-08-16,Basura de Agosto,Semana 33,200
@@ -237,21 +237,21 @@ fecha,concepto,notas,monto
 2025-08-30,Pago Reyna Agosto,Semana 35,1000
 2025-09-01,Pago TotalPlay,Semana 36,889
 2025-09-01,Mantenimiento elevador,Semana 36,2300
+2025-09-05,Retiro de puerta (mano de obra),Semana 36,1800
 2025-09-06,Basura de Septiembre,Semana 36,200
 2025-09-06,Pago Reyna Septiembre,Semana 36,1000
-2025-09-05,Retiro de puerta (mano de obra),Semana 36,1800
 2025-09-13,Basura de Septiembre,Semana 37,200
 2025-09-13,Pago Reyna Septiembre,Semana 37,1000
+2025-09-18,Plomería (Abraham),Semana 38,1700
 2025-09-20,Basura de Septiembre,Semana 38,200
 2025-09-20,Pago Reyna Septiembre,Semana 38,1000
-2025-09-18,Plomería (Abraham),Semana 38,1700
 2025-09-27,Basura de Septiembre,Semana 39,200
 2025-09-27,Pago Reyna Septiembre,Semana 39,1000
 2025-10-01,Pago TotalPlay,Semana 40,889
 2025-10-01,Mantenimiento elevador,Semana 40,2300
+2025-10-03,Pago bota aguas,,12638
 2025-10-04,Basura de Octubre,Semana 40,200
 2025-10-04,Pago Reyna Octubre,Semana 40,1000
-2025-10-03,Pago bota aguas,,12638
 2025-10-11,Basura de Octubre,Semana 41,200
 2025-10-11,Pago Reyna Octubre,Semana 41,1000
 2025-10-18,Basura de Octubre,Semana 42,200
@@ -283,8 +283,8 @@ fecha,concepto,notas,monto
 2025-12-27,Basura de Diciembre,Semana 52,200
 2025-12-27,Pago Reyna Diciembre,Semana 52,1000
 2026-01-01,Pago TotalPlay,Enero,978
-2026-01-03,Pago Reyna Enero,Enero,1000
 2026-01-01,Mantenimiento elevador,Enero,2500
+2026-01-03,Pago Reyna Enero,Enero,1000
 2026-01-03,Basura de Enero,Enero,300
 2026-01-10,Basura de Enero,Enero,300
 2026-01-10,Pago Reyna Enero,Enero,1000
@@ -360,3 +360,16 @@ fecha,concepto,notas,monto
 2026-07-18,Pago Reyna Julio,Julio,1000
 2026-07-19,Compra de bomba,,1100
 2026-07-19,Automatización del elevador (refacción),Pago 1 de 6 — pieza de $6000 a 6 meses,1000
+2026-07-25,Basura de Julio,Julio,300
+2026-07-25,Pago Reyna Julio,Julio,1000
+2026-08-01,Mantenimiento elevador,Agosto,2550
+2026-08-01,Pago TotalPlay,Agosto,978
+2026-08-01,Basura de Agosto,Agosto,300
+2026-08-01,Pago Reyna Agosto,Agosto,1000
+2026-08-08,Basura de Agosto,Agosto,300
+2026-08-08,Pago Reyna Agosto,Agosto,1000
+2026-08-15,Basura de Agosto,Agosto,300
+2026-08-15,Pago Reyna Agosto,Agosto,1000
+2026-08-17,Automatización del elevador (refacción),Pago 2 de 6 — pieza de $6000 a 6 meses,1000
+2026-08-22,Basura de Agosto,Agosto,300
+2026-08-22,Pago Reyna Agosto,Agosto,1000

@@ -266,7 +266,7 @@ fecha,concepto,depto,monto_total,pago,adeudo,interes_mensual,saldo_pendiente
 2026-05-01,Cuota extraordinaria para gestión del acceso al elevador de 2026 Mayo,301,3858,3858,0,0,0
 2026-05-01,Cuota extraordinaria para gestión del acceso al elevador de 2026 Mayo,302,3858,0,3858,219.38,4077.38
 2026-05-01,Cuota extraordinaria para gestión del acceso al elevador de 2026 Mayo,401,3858,0,3858,219.38,4077.38
-2026-05-01,Cuota extraordinaria para gestión del acceso al elevador de 2026 Mayo,402,3858,500,3358,210.39,3568.39
+2026-05-01,Cuota extraordinaria para gestión del acceso al elevador de 2026 Mayo,402,3858,3858,0,0,0
 2026-06-01,Cuota de mantenimiento de 2026 Junio,101,1500,1500,0,0,0
 2026-06-01,Cuota de mantenimiento de 2026 Junio,102,1500,1500,0,0,0
 2026-06-01,Cuota de mantenimiento de 2026 Junio,201,1500,1500,0,0,0
@@ -274,7 +274,7 @@ fecha,concepto,depto,monto_total,pago,adeudo,interes_mensual,saldo_pendiente
 2026-06-01,Cuota de mantenimiento de 2026 Junio,301,1500,1500,0,0,0
 2026-06-01,Cuota de mantenimiento de 2026 Junio,302,1500,0,1500,164.11,1664.11
 2026-06-01,Cuota de mantenimiento de 2026 Junio,401,1500,0,1500,164.11,1664.11
-2026-06-01,Cuota de mantenimiento de 2026 Junio,402,1500,0,1500,164.11,1664.11
+2026-06-01,Cuota de mantenimiento de 2026 Junio,402,1500,527,973,169.38,1142.38
 2026-07-01,Cuota de mantenimiento de 2026 Julio,101,1500,1500,0,0,0
 2026-07-01,Cuota de mantenimiento de 2026 Julio,102,1500,1500,0,0,0
 2026-07-01,Cuota de mantenimiento de 2026 Julio,201,1500,1500,0,0,0
@@ -282,4 +282,12 @@ fecha,concepto,depto,monto_total,pago,adeudo,interes_mensual,saldo_pendiente
 2026-07-01,Cuota de mantenimiento de 2026 Julio,301,1500,1500,0,0,0
 2026-07-01,Cuota de mantenimiento de 2026 Julio,302,1500,0,1500,151.66,1651.66
 2026-07-01,Cuota de mantenimiento de 2026 Julio,401,1500,0,1500,151.66,1651.66
-2026-07-01,Cuota de mantenimiento de 2026 Julio,402,1500,0,1500,151.66,1651.66
+2026-07-01,Cuota de mantenimiento de 2026 Julio,402,1500,0,1500,167.43,1667.43
+2026-08-01,Cuota de mantenimiento de 2026 Agosto,101,1500,1500,0,0,0
+2026-08-01,Cuota de mantenimiento de 2026 Agosto,102,1500,1500,0,0,0
+2026-08-01,Cuota de mantenimiento de 2026 Agosto,201,1500,1500,0,0,0
+2026-08-01,Cuota de mantenimiento de 2026 Agosto,202,1500,1500,0,0,0
+2026-08-01,Cuota de mantenimiento de 2026 Agosto,301,1500,1500,0,0,0
+2026-08-01,Cuota de mantenimiento de 2026 Agosto,302,1500,0,1500,154.56,1654.56
+2026-08-01,Cuota de mantenimiento de 2026 Agosto,401,1500,0,1500,154.56,1654.56
+2026-08-01,Cuota de mantenimiento de 2026 Agosto,402,1500,0,1500,154.56,1654.56
